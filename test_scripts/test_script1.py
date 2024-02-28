@@ -15,6 +15,7 @@ class TestScrip2(Test1):
     def test_script2(self):
      print("This is main class")
      self.mian_run()
+     print("Hello mian azam")
 
 
 
